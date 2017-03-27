@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\android studio projects\Ardani Project-20161226T134618Z\Ardani Project\proyectoARD\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\android studio projects\Ardani Project-20161226T134618Z\Ardani Project\proyectoARD\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_ec92cffa93054c42f22cc74011fcbfcd47320740\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\android studio projects\Ardani Project-20161226T134618Z\Ardani Project\proyectoARD\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\android studio projects\Ardani Project-20161226T134618Z\Ardani Project\proyectoARD\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_ea0142163f4c8328ef1d96ba408c28c2fb6e9705\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\android studio projects\Ardani Project-20161226T134618Z\Ardani Project\proyectoARD\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\android studio projects\Ardani Project-20161226T134618Z\Ardani Project\proyectoARD\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_ec3090dfdeb500cd0f389918f10f1fb9865bb870\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\android studio projects\Ardani Project-20161226T134618Z\Ardani Project\proyectoARD\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\android studio projects\Ardani Project-20161226T134618Z\Ardani Project\proyectoARD\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_a2cfdfe866b0ace6d88ea14a5b15fa1ddccb964a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lramirez\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\android studio projects\Ardani Project-20161226T134618Z\Ardani Project\proyectoARD\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_1e26d41ef866bb818a20f0926b9a1041b7a970b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\android studio projects\Ardani Project-20161226T134618Z\Ardani Project\proyectoARD\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\android studio projects\Ardani Project-20161226T134618Z\Ardani Project\proyectoARD\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_86b65ae03a2fe7f085409ab5bbc903545089f74a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\android studio projects\Ardani Project-20161226T134618Z\Ardani Project\proyectoARD\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\android studio projects\Ardani Project-20161226T134618Z\Ardani Project\proyectoARD\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_f3a9d4de6f81e59b91852b9038ce868979b12351\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\android studio projects\Ardani Project-20161226T134618Z\Ardani Project\proyectoARD\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\android studio projects\Ardani Project-20161226T134618Z\Ardani Project\proyectoARD\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_dd04be5bf4fe90698f9e0af25fd8f80621812ab7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\android studio projects\Ardani Project-20161226T134618Z\Ardani Project\proyectoARD\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="701515fe5618188d1aa64f744211cd3fadb58110">
+        <dex dex="C:\android studio projects\Ardani Project-20161226T134618Z\Ardani Project\proyectoARD\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_42bed4e55a9913f957d605121e4112b3f9194a0d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\android studio projects\Ardani Project-20161226T134618Z\Ardani Project\proyectoARD\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\android studio projects\Ardani Project-20161226T134618Z\Ardani Project\proyectoARD\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_516aeea7c0d930ffe4da745f64d93c4ad2674380\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\android studio projects\Ardani Project-20161226T134618Z\Ardani Project\proyectoARD\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="34d12bbc9b6a4da0d614d05f5c64f4b9d77fd276">
+        <dex dex="C:\android studio projects\Ardani Project-20161226T134618Z\Ardani Project\proyectoARD\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c5df868fa250934197e1a49cec8b2ccbe58ee56f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\android studio projects\Ardani Project-20161226T134618Z\Ardani Project\proyectoARD\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\android studio projects\Ardani Project-20161226T134618Z\Ardani Project\proyectoARD\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_a4bea0f72e63c0c3fe19cbd1cddee6ac7c9f405c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\android studio projects\Ardani Project-20161226T134618Z\Ardani Project\proyectoARD\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\android studio projects\Ardani Project-20161226T134618Z\Ardani Project\proyectoARD\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_174b21d4a917ccd07435a37ed8d9c5ca6aabfba7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\android studio projects\Ardani Project-20161226T134618Z\Ardani Project\proyectoARD\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\android studio projects\Ardani Project-20161226T134618Z\Ardani Project\proyectoARD\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_2b218b5c81f6d1772d701b44d6afb25fa4dccead\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\android studio projects\Ardani Project-20161226T134618Z\Ardani Project\proyectoARD\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\android studio projects\Ardani Project-20161226T134618Z\Ardani Project\proyectoARD\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_ae3e60b52516f4bf0d325b2e29898b987e3685e0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\android studio projects\Ardani Project-20161226T134618Z\Ardani Project\proyectoARD\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\android studio projects\Ardani Project-20161226T134618Z\Ardani Project\proyectoARD\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_9fc9a9116610f1afd7080129648841f93ff8697a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\android studio projects\Ardani Project-20161226T134618Z\Ardani Project\proyectoARD\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\android studio projects\Ardani Project-20161226T134618Z\Ardani Project\proyectoARD\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_18f1fcf3bc2390a353a64e7e618958c37ae29338\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\android studio projects\Ardani Project-20161226T134618Z\Ardani Project\proyectoARD\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\android studio projects\Ardani Project-20161226T134618Z\Ardani Project\proyectoARD\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_f850e7511cae0a55cc7e50133e4c941d32fc3068\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\android studio projects\Ardani Project-20161226T134618Z\Ardani Project\proyectoARD\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\android studio projects\Ardani Project-20161226T134618Z\Ardani Project\proyectoARD\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_6a44c6fed88495fe0c0112b3af8a24e3d49e1f48\classes.dex" />
+    </item>
+
+</items>

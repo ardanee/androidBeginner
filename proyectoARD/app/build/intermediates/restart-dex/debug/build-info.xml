@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="258315085005526"
+    token="395820870492331524"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="762" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="520" />
+    <task
+        name="verifier"
+        duration="187" />
+
+    <artifact
+        location="C:\android studio projects\Ardani Project-20161226T134618Z\Ardani Project\proyectoARD\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="258315085005526"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\android studio projects\Ardani Project-20161226T134618Z\Ardani Project\proyectoARD\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

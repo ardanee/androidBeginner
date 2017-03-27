@@ -1,0 +1,7 @@
+#Mon Mar 27 10:42:46 CST 2017
+base.0=C\:\\android studio projects\\Ardani Project-20161226T134618Z\\Ardani Project\\proyectoARD\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_42bed4e55a9913f957d605121e4112b3f9194a0d
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\android studio projects\\Ardani Project-20161226T134618Z\\Ardani Project\\proyectoARD\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c5df868fa250934197e1a49cec8b2ccbe58ee56f\\classes.dex
+base.1=C\:\\android studio projects\\Ardani Project-20161226T134618Z\\Ardani Project\\proyectoARD\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c5df868fa250934197e1a49cec8b2ccbe58ee56f
+file.0=C\:\\android studio projects\\Ardani Project-20161226T134618Z\\Ardani Project\\proyectoARD\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_42bed4e55a9913f957d605121e4112b3f9194a0d\\classes.dex
