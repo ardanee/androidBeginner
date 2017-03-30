@@ -1,0 +1,9 @@
+Pasos para corregir problema de butterknife
+
+step 1 Go to build.gradle(Module.app)-add this dependency dependencies { compile 'com.jakewharton:butterknife:8.4.0' annotationProcessor 'com.jakewharton:butterknife-compiler:8.4.0' }
+
+step 2 Go to build.gradle(Module.app)-Apply plugin at the top after your app plugin apply plugin: 'com.jakewharton.butterknife'
+
+step 3 Go to build.gradle(project:yourprojectname) file and set class path under dependency classpath 'com.jakewharton:butterknife-gradle-plugin:8.4.0'
+
+step-4 Go to file-->settings-->Plugins--> Search for ButterKnife zeleny in repository -->install it and restart android studio
