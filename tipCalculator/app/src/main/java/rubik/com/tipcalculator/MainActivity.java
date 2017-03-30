@@ -79,11 +79,11 @@ public class MainActivity extends AppCompatActivity {
         if(percentage==0){
             percentage = percentageNormal;
         }
+    if (!etBillAmount.getText().toString().equals("") && !etBillAmount.getText().toString().equals(".")) {
 
-        if(!etBillAmount.getText().equals("") && !etBillAmount.getText().equals(".")){
-            billAmount = Float.valueOf(etBillAmount.getText().toString());
-                   }
-                   else{
+        billAmount = Float.valueOf(etBillAmount.getText().toString());
+    }
+        else{
             billAmount = 0;
         }
 
